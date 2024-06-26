@@ -1,6 +1,4 @@
- <!-- variable -->
- <?php
- $a1=10;
-echo "The variable is $a1";
-echo "<br>The variable value again ".$a1;
- ?>
+<?php
+echo"hello user ";
+print"hello student";
+?>
